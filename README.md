@@ -1,16 +1,21 @@
-## Hi there 👋
+# 💫 About Me:
+ About Me<br><br>Hi, I'm **Piyush**, a 6th-semester **Electronics and Communication Engineering (ECE)** student at **Lakshmi Narain College of Technology**. I am passionate about electronics, embedded systems, automation, robotics, IoT, and emerging technologies that create real-world impact.<br><br>I enjoy designing and building innovative hardware solutions, ranging from automation systems and microcontroller-based projects to solar and IoT applications. My hands-on experience includes developing intelligent systems that integrate sensors, motor control, embedded programming, and automation to solve practical engineering challenges.<br><br>Alongside my technical interests, I am actively working on **Electronic Boy**, a venture focused on electronics and electrical services, student projects, automation solutions, and technology innovation. My goal is to bridge the gap between engineering concepts and practical implementation by creating reliable, efficient, and impactful technological solutions.<br><br>Beyond engineering, I have a strong interest in cinematography and video editing, combining creativity with technology to tell compelling stories and present ideas effectively.<br><br>Skills & Interests<br><br>* Embedded Systems & Microcontrollers<br>* IoT & Smart Devices<br>* Robotics & Automation<br>* Electronics Hardware Development<br>* PCB Design & Prototyping<br>* Solar & Renewable Energy Systems<br>* AI-Powered Engineering Solutions<br>* Technical Project Development<br>* Cinematography & Video Editing<br><br> Career Objective<br><br>To become a highly skilled Electronics Engineer and Technology Entrepreneur, contributing to innovations in embedded systems, automation, AI-integrated hardware, and sustainable technologies while building solutions that make a meaningful difference.<br><br>**"Passionate about transforming innovative ideas into practical engineering solutions through technology, creativity, and continuous learning."** 🚀⚡<br>
 
-<!--
-**Piyush9301/Piyush9301** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## 🌐 Socials:
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/profile.php?viewas=&id=61576945795954&show_switched_toast=false&show_switched_tooltip=false&is_tour_dismissed=false&is_tour_completed=false&show_podcast_settings=false&show_community_review_changes=false&should_open_composer=false&badge_type=NEW_MEMBER&show_community_rollback_toast=false&show_community_rollback=false&show_follower_visibility_disclosure=false&bypass_exit_warning=true) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/piyushbopche_108/?__pwa=1) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/piyush-bopche-105489295/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:piyushbopche8@gmail.com ) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=flat-square&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=flat-square&logo=firebase) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=flat-square&logo=firebase&logoColor=ffcd34) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat-square&logo=gitlab&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=flat-square&logo=home-assistant&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=Piyush9301&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=Piyush9301&theme=blue_navy&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=Piyush9301&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Piyush9301&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+[![](https://komarev.com/ghpvc/?username=Piyush9301&icon=7&color=5)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
